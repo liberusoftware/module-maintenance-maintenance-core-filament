@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-maintenance-core-filament",
+  "capabilityKey": "liberusoftware/module-maintenance-maintenance-core",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/maintenance-maintenance-core-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/maintenance/nextjs/maintenance-core.md",
+  "presentationPlan": "projects/maintenance/filament/maintenance-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
